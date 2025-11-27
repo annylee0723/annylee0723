@@ -10,7 +10,8 @@ I bridge the gap between **creative vision** and **technical execution** — cra
 - 💻 Currently building **AI-powered medical platforms** at Gaia Labs, Seoul
 - 🌐 Passionate about design systems, and pixel-perfect interfaces
 - 🔧 Love turning complex problems into elegant, user-friendly solutions
-- ✨ Motto: *"Design is not just what it looks like — design is how it works."* 
+- 🧩 Atomic Design — Building reusable components that create a consistent UI language
+- 🔗 Low Coupling, High Cohesion — Designing maintainable and scalable architectures
 
 <br/>
 
@@ -61,12 +62,8 @@ I bridge the gap between **creative vision** and **technical execution** — cra
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=annylee0723&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
 <p align="center">
-  <i>✨ Designing experiences, one pixel at a time ✨</i>
+  <i>✨ Design is not just what it looks like — design is how it works. ✨</i>
 </p>

@@ -14,16 +14,6 @@ I design and implement performance-critical data visualization, real-time operat
 
 ---
 
-### What I Build
-
-> **Medical AI SaaS** — B2B platform connecting AI skin analysis to consultation & treatment decisions (DERMA:CODE)
-> 
-> **Medical CRM** — EMR-grade CRM for dermatology clinics: scheduling, billing, patient management (Aesthe CRM)
-> 
-> **Chart Library** — 7 custom Canvas API chart types with theme system, published on npm ([@gaia-corporation/dermacode-chart-lib](https://www.npmjs.com/package/@gaia-corporation/dermacode-chart-lib))
-
----
-
 ### Key Metrics
 
 | Project | Impact |

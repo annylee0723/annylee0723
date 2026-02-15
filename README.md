@@ -14,14 +14,13 @@ I design and implement performance-critical data visualization, real-time operat
 
 ---
 
-### Key Metrics
+### What I Build
 
-| Project | Impact |
-|:--------|:-------|
-| **DERMA:CODE** | LCP `17.4s → 5s` (71% improvement), 40% reduction in redundant API calls |
-| **Aesthe CRM** | 40% faster billing workflow, 0% settlement error rate for 6 months |
-| **Chart Library** | 7 chart types, 50+ Storybook stories, npm published |
-| **TheiA Clinic** | 5 languages, content deployment time reduced from days to under 1 hour |
+> **Medical AI SaaS** — B2B platform connecting AI skin analysis to consultation & treatment decisions 
+> 
+> **Medical CRM** — EMR-grade CRM for dermatology clinics: scheduling, billing, patient management 
+> 
+> **Chart Library** — 7 custom Canvas API chart types with theme system, published on npm
 
 ---
 
